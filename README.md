@@ -1,10 +1,8 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=WayneLothbrok&show_icons=true&hide_border=false&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WayneLothbrok&show_icons=true&hide_border=false&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneLothbrok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-<br />
 
 ## Language
 ![PHP](https://img.shields.io/badge/-PHP-e4cbf3?style=flat&logo=php)
